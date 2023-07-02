@@ -1,0 +1,15 @@
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.csproj.AssemblyReference.cache
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.AssemblyInfoInputs.cache
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.AssemblyInfo.cs
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\bin\Debug\net6.0\LabDesignPatterns.exe
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\bin\Debug\net6.0\LabDesignPatterns.deps.json
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\bin\Debug\net6.0\LabDesignPatterns.runtimeconfig.json
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\bin\Debug\net6.0\LabDesignPatterns.dll
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\bin\Debug\net6.0\LabDesignPatterns.pdb
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.dll
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\refint\LabDesignPatterns.dll
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.pdb
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\LabDesignPatterns.genruntimeconfig.cache
+C:\Estudo\.net\2023\LabDesignPatterns\LabDesignPatterns\obj\Debug\net6.0\ref\LabDesignPatterns.dll

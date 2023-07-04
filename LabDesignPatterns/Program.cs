@@ -6,12 +6,22 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        CalculaDescontos();
+        //CalculaDescontos();
 
         //CalculaImposto();
+        CalculaImpostoDecorator();
 
         Console.ReadKey();
         //Console.WriteLine("Hello, World!");
+    }
+
+    private static void CalculaImpostoDecorator()
+    {
+        Imposto impostos = new ISS(new ICMS());
+
+        Orcamento orcamento = new Orcamento(500.0);
+
+        Console.WriteLine(impostos.Calcula(orcamento));
     }
 
     private static void CalculaDescontos()
